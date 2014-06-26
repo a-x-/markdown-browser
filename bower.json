@@ -1,0 +1,28 @@
+{
+  "name": "markdown-browser",
+  "version": "1.0.0",
+  "homepage": "https://github.com/a-x-/markdown-browser",
+  "authors": [
+    "Inventorem <me@invntrm.ru>",
+    "Dominic Baggott <dominic.baggott@gmail.com>",
+    "Ash Berlin <ash_markdownjs@firemirror.com>",
+    "XhmikosR <xhmikosr@users.sourceforge.net>",
+    "Robin Ward <robin.ward@gmail.com>"
+  ],
+  "description": "A sensible Markdown parser for javascript",
+  "main": "./lib/index.js",
+  "keywords": [
+    "markdown",
+    "text",
+    "processing",
+    "ast"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
