@@ -1,9 +1,11 @@
 markdown-browser
 ================
 
-See https://github.com/cadorn/markdown-js
+See https://github.com/evilstreak/markdown-js and https://github.com/cadorn/markdown-js
 
-I don't remember, why i created this repo...
+This repo contains browser realeses of original projects, which available anlyonly via attached archives (https://github.com/evilstreak/markdown-js/releases).
+
+![Illustration](/md-bro-repo.PNG)
 
 # Credits
 
