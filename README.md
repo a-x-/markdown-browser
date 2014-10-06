@@ -1,7 +1,9 @@
 markdown-browser
 ================
 
-This is just not modified fork form not github repo.
+See https://github.com/cadorn/markdown-js
+
+I don't remember, why i created this repo...
 
 # Credits
 
