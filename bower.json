@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "homepage": "https://github.com/a-x-/markdown-browser",
   "authors": [
-    "Inventorem <me@invntrm.ru>",
+    "Inventorem <invntrm@gmail.ru>",
     "Dominic Baggott <dominic.baggott@gmail.com>",
     "Ash Berlin <ash_markdownjs@firemirror.com>",
     "XhmikosR <xhmikosr@users.sourceforge.net>",
     "Robin Ward <robin.ward@gmail.com>"
   ],
   "description": "A sensible Markdown parser for javascript",
-  "main": "./lib/index.js",
+  "main": "markdown.min.js",
   "keywords": [
     "markdown",
     "text",
